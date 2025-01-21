@@ -9,10 +9,10 @@
     
   
 
-- 🔭 I’m currently working Frontend   
+- 🔭 I’m currently working on Frontend   
   
 
-- 🌱 I’m currently learning HTML5 & CSS  
+- 🌱 I’m skilled at HTML5 ,CSS and JavaScript
   
 
 - ❓ Ask me about anything related to Frontend , editing and related technologies  
