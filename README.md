@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://www.canva.com/design/DAGw1ko2VuU/4jhEekoop-GZShBXgWE_cg/edit?utm_content=DAGw1ko2VuU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <h1 align="center">Hi 👋, I'm Tanushree Nayal</h1>
 <h3 align="center">A passionate developer👨‍💻 and editor from India & working remotely since 2022 🚀</h3>
 <img align="right" alt="coding" width"400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
