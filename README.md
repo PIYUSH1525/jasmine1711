@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img align="right" alt="Tanushree Nayal" width="400" src="https://i.postimg.cc/j53gCfgQ/ME.jpg">
+  <img align="right" alt="Tanushree Nayal" width="300" src="https://i.postimg.cc/j53gCfgQ/ME.jpg">
 </div>
 
 ## 👨‍💻 About Me
